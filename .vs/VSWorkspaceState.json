@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WordLibrary",
+    "\\WordLibrary\\TestGetVowelByNumber",
+    "\\WordLibrary\\WordLibrary"
   ],
+  "SelectedNode": "\\WordLibrary\\TestGetVowelByNumber\\TestGetVowelByNumber.cs",
   "PreviewInSolutionExplorer": false
 }
