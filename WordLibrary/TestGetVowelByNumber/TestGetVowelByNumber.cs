@@ -26,5 +26,18 @@ namespace WordLibrary
             // Assert
             Assert.IsTrue(lExceptionRaised);
         }
+        
+        [TestMethod]
+        public void GetVowelByNumber_1_A()
+        {
+            // ARRANGE
+
+
+            // ACT
+            var result = WordLibrary.GetVowelByNumber(1);
+
+            // ASSERT
+            Assert.AreEqual("a", result);
+        }
     }
 }

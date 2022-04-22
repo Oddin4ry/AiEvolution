@@ -8,6 +8,10 @@
             {
                 throw (new System.ArgumentNullException());
             }
+            if(pNumber == 1)
+            {
+                return "a";
+            }
             return "";
         }
     }
