@@ -2,8 +2,12 @@
 {
     public class WordLibrary
     {
-        string GetVowelByNumber(ushort pNumber)
+        public static string GetVowelByNumber(ushort pNumber)
         {
+            if (pNumber == 0)
+            {
+                throw (new System.ArgumentNullException());
+            }
             return "";
         }
     }

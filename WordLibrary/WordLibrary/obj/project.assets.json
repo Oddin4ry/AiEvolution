@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\james\\source\\repos\\WordLibrary\\WordLibrary\\WordLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\james\\Source\\Repos\\Oddin4ry\\AiEvolution\\WordLibrary\\WordLibrary\\WordLibrary.csproj",
       "projectName": "WordLibrary",
-      "projectPath": "C:\\Users\\james\\source\\repos\\WordLibrary\\WordLibrary\\WordLibrary.csproj",
+      "projectPath": "C:\\Users\\james\\Source\\Repos\\Oddin4ry\\AiEvolution\\WordLibrary\\WordLibrary\\WordLibrary.csproj",
       "packagesPath": "C:\\Users\\james\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\james\\source\\repos\\WordLibrary\\WordLibrary\\obj\\",
+      "outputPath": "C:\\Users\\james\\Source\\Repos\\Oddin4ry\\AiEvolution\\WordLibrary\\WordLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\james\\AppData\\Roaming\\NuGet\\NuGet.Config",

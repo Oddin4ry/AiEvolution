@@ -1,0 +1,12 @@
+C:\Users\james\Source\Repos\Oddin4ry\AiEvolution\WordLibrary\WordLibrary\bin\Debug\net6.0\WordLibrary.deps.json
+C:\Users\james\Source\Repos\Oddin4ry\AiEvolution\WordLibrary\WordLibrary\bin\Debug\net6.0\WordLibrary.dll
+C:\Users\james\Source\Repos\Oddin4ry\AiEvolution\WordLibrary\WordLibrary\bin\Debug\net6.0\WordLibrary.pdb
+C:\Users\james\Source\Repos\Oddin4ry\AiEvolution\WordLibrary\WordLibrary\obj\Debug\net6.0\WordLibrary.csproj.AssemblyReference.cache
+C:\Users\james\Source\Repos\Oddin4ry\AiEvolution\WordLibrary\WordLibrary\obj\Debug\net6.0\WordLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\Source\Repos\Oddin4ry\AiEvolution\WordLibrary\WordLibrary\obj\Debug\net6.0\WordLibrary.AssemblyInfoInputs.cache
+C:\Users\james\Source\Repos\Oddin4ry\AiEvolution\WordLibrary\WordLibrary\obj\Debug\net6.0\WordLibrary.AssemblyInfo.cs
+C:\Users\james\Source\Repos\Oddin4ry\AiEvolution\WordLibrary\WordLibrary\obj\Debug\net6.0\WordLibrary.csproj.CoreCompileInputs.cache
+C:\Users\james\Source\Repos\Oddin4ry\AiEvolution\WordLibrary\WordLibrary\obj\Debug\net6.0\WordLibrary.dll
+C:\Users\james\Source\Repos\Oddin4ry\AiEvolution\WordLibrary\WordLibrary\obj\Debug\net6.0\refint\WordLibrary.dll
+C:\Users\james\Source\Repos\Oddin4ry\AiEvolution\WordLibrary\WordLibrary\obj\Debug\net6.0\WordLibrary.pdb
+C:\Users\james\Source\Repos\Oddin4ry\AiEvolution\WordLibrary\WordLibrary\obj\Debug\net6.0\ref\WordLibrary.dll
